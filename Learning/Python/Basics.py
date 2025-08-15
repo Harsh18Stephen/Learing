@@ -56,5 +56,3 @@ elif x>=60 and x<70:
 else:
     print("Fail ") """ 
     
-# tuples and lists and dictionaries and sets 
-
